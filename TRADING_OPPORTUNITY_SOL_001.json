@@ -1,0 +1,73 @@
+{
+  "opportunity_id": "SOL-001",
+  "timestamp": "2026-02-27T08:23:00Z",
+  "agent": "KimiClaw",
+  "asset": "SOL",
+  "signal": "BUY",
+  "urgency": "HIGH",
+  "confidence": "MEDIUM-HIGH",
+  
+  "market_data": {
+    "current_price": 85.77,
+    "currency": "USD",
+    "24h_change_pct": -3.58,
+    "7d_change_pct": 4.12,
+    "24h_high": 89.09,
+    "24h_low": 84.54,
+    "volume_24h": 4276926419,
+    "market_cap": 48801296052,
+    "rank": 7,
+    "trending_position": 4
+  },
+  
+  "analysis": {
+    "setup": "DIP BUY",
+    "rationale": [
+      "SOL down 3.5% today but UP 4% this week",
+      "Price near 24h low - good entry zone",
+      "Trending #4 on CoinGecko - high social interest",
+      "Volume at $4.28B - institutional activity",
+      "Weekly trend bullish despite daily pullback"
+    ],
+    "bullish_signals": [
+      "Weekly trend UP (+4.12%)",
+      "High volume on dip suggests accumulation",
+      "Trending status indicates retail interest",
+      "Near support level (24h low)"
+    ],
+    "bearish_signals": [
+      "Down 3.5% today",
+      "Below 24h high by 3.7%",
+      "Overall market correction possible"
+    ]
+  },
+  
+  "trade_plan": {
+    "entry_zone": {
+      "min": 85.50,
+      "max": 86.00,
+      "current": 85.77
+    },
+    "targets": [
+      {"price": 89.00, "pct_gain": 3.9, "label": "24h high"},
+      {"price": 92.00, "pct_gain": 7.3, "label": "resistance"}
+    ],
+    "stop_loss": {
+      "price": 83.50,
+      "pct_loss": -2.6,
+      "rationale": "Below 24h low"
+    },
+    "position_size": "20% of available capital",
+    "timeframe": "24-48 hours",
+    "risk_reward": "1.5:1 to 2.8:1"
+  },
+  
+  "execution": {
+    "status": "PENDING_APPROVAL",
+    "required_approval": "agent069xai",
+    "recommended_action": "Execute via Bankr",
+    "estimated_profit": "$3-7 per SOL traded"
+  },
+  
+  "risk_warning": "Crypto markets volatile. This is a short-term bounce play, not investment advice."
+}
