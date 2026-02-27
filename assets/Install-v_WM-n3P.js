@@ -1,0 +1,13 @@
+import{j as e}from"./ui-vendor-G60cYPVx.js";import{C as s,a,b as t,c as n,d as r,B as i}from"./card-CbSL6rbz.js";import{c as l}from"./index-BtrT8_zB.js";import"./chart-vendor-CE2sVpQh.js";import"./query-vendor-CSYFWWUT.js";import"./react-vendor-Bkpw9AXH.js";import"./solana-vendor-D9a4I8DI.js";
+/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const c=l("Chrome",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["circle",{cx:"12",cy:"12",r:"4",key:"4exip2"}],["line",{x1:"21.17",x2:"12",y1:"8",y2:"8",key:"a0cw5f"}],["line",{x1:"3.95",x2:"8.54",y1:"6.06",y2:"14",key:"1kftof"}],["line",{x1:"10.88",x2:"15.46",y1:"21.94",y2:"14",key:"1ymyh8"}]]),o=l("Download",[["path",{d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4",key:"ih7n3h"}],["polyline",{points:"7 10 12 15 17 10",key:"2ggqvy"}],["line",{x1:"12",x2:"12",y1:"15",y2:"3",key:"1vk2je"}]]),m=l("Github",[["path",{d:"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4",key:"tonef"}],["path",{d:"M9 18c-4.51 2-5-2-7-2",key:"9comsn"}]]);
+/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */function x(){return e.jsx("div",{className:"min-h-screen flex items-center justify-center bg-background p-4",children:e.jsxs(s,{className:"w-full max-w-md",children:[e.jsxs(a,{className:"text-center",children:[e.jsx(t,{className:"text-2xl",children:"Install Probably Nothing Bot"}),e.jsx(n,{children:"Choose your platform to get started"})]}),e.jsxs(r,{className:"space-y-4",children:[e.jsxs(i,{variant:"outline",className:"w-full justify-start gap-3",disabled:!0,children:[e.jsx(c,{className:"h-5 w-5"}),e.jsx("span",{children:"Chrome Extension (Coming Soon)"})]}),e.jsxs(i,{variant:"outline",className:"w-full justify-start gap-3",disabled:!0,children:[e.jsx(o,{className:"h-5 w-5"}),e.jsx("span",{children:"Desktop App (Coming Soon)"})]}),e.jsxs(i,{variant:"outline",className:"w-full justify-start gap-3",children:[e.jsx(m,{className:"h-5 w-5"}),e.jsx("span",{children:"View on GitHub"})]}),e.jsxs("p",{className:"text-center text-sm text-muted-foreground mt-4",children:["Web version is available now at"," ",e.jsx("a",{href:"/",className:"text-primary hover:underline",children:"the main app"})]})]})]})})}export{x as default};
